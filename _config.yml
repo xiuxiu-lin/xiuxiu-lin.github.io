@@ -21,7 +21,7 @@ repository               : "xiuxiu-lin/xiuxiu-lin.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "IMG_9285_square.jpg"
+  avatar           : "profile.png"
   name             : "Xiuxiu Lin"
   bio              : "PhD candidate, University of Auckland"
   location         : "Auckland, NZ"
