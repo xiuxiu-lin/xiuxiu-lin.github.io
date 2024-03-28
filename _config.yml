@@ -23,15 +23,14 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Xiuxiu Lin"
-  bio              : "PhD candidate"
-  location         : "Auckland, New Zealand"
-  employer         : "University of Auckland"
+  bio              : "PhD candidate, University of Auckland"
+  location         : "Auckland, NZ"
   uri              : # URL
   email            : "xiuxiu.lin@auckland.ac.nz" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://"
+   # googlescholar    : "https://"
    # impactstory      : # URL
    # orcid            : "http://"
    # pubmed           : "https://"
