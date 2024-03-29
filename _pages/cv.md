@@ -9,8 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-{% for post in site.files reversed %}
-  {% include Xiuxiu-lin-CV.pdf %}
+{% for post in site.files %}
+  My full CV{% include Xiuxiu_lin_CV.pdf %}
 {% endfor %}
 
 Education
