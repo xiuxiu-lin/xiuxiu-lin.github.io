@@ -14,7 +14,7 @@ Education
 ======
 * Ph.D. in Economics, University of Auckland, 2023 - .
 * Master in Economics, Tongji University, 2019 - 2022.
-* Bachelor of Engineering, China Jiliang University, 2015 - 2019
+* Bachelor in Engineering, China Jiliang University, 2015 - 2019
 
 Work experience
 ======
