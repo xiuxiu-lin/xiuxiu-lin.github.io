@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-My full CV
+My full [CV](files/Xiuxiu_lin_CV.pdf)
 {% include base_path %}
 
 Education
