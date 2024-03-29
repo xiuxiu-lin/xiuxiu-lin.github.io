@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "CV"
-permalink: http://xiuxiu-lin.github.io/files/Xiuiu_lin_CV.pdf
+permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
