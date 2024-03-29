@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-My full [CV](xiuxiu-lin.github.io/files/Xiuxiu_lin_CV.pdf)
+My full [CV]
 {% include base_path %}
 
 Education
