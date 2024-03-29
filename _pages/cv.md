@@ -7,10 +7,11 @@ redirect_from:
   - /resume
 ---
 
-
-
-
 {% include base_path %}
+
+{% for post in site.files reversed %}
+  {% include Xiuxiu-lin-CV.pdf %}
+{% endfor %}
 
 Education
 ======
