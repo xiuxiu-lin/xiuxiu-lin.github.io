@@ -5,6 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 
+## Research Interests
+
+* Primary: International Trade, Services Liberalization
+* Secondary: Product Quality, Environment Economics
+
 ## Working Papers
 
 **Digitization, Product Quality and Geographic Proximity**
