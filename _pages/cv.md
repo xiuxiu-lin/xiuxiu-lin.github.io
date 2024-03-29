@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Xiuxiu Lin"
 permalink: /cv/
 author_profile: true
 redirect_from:
