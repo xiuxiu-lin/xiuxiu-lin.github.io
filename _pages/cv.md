@@ -7,7 +7,11 @@ redirect_from:
   - /resume
 ---
 
-My full [CV](files/Xiuiu_lin_CV.pdf)
+{% if xiuxiu-lin.github.io/files/Xiuiu_lin_CV.pdf %}
+  <div class="wordwrap">My full <a href="{{xiuxiu-lin.github.io/files/Xiuiu_lin_CV.pdf}}">CV</a>.</div>
+{% endif %}
+
+
 {% include base_path %}
 
 Education
