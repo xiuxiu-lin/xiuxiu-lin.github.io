@@ -8,7 +8,7 @@ author_profile: true
 ## Research Interests
 
 * Primary: International Trade, Services Liberalization
-* Secondary: Product Quality, Environment Economics
+* Secondary: Product Quality, Environmental Economics
 
 ## Working Papers
 
