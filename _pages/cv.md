@@ -26,6 +26,7 @@ Conference and Seminar Presentations
 ======
 * 2023, Brown Bag Ph.D workshop, University of Auckland
 * 2024, 2nd PhD Summer Institute in International Trade & Industrial Organisation, University of Canterbury
+* 2024, Brown Bag Ph.D workshop, University of Auckland
 
 Honor and Scholarships
 ======
