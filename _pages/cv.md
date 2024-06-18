@@ -22,13 +22,13 @@ Work experience
   * Graduate Teaching Assistant
   * University of Auckland
 
-Conference and Seminar Presentations
+Conferences and Seminar Presentations
 ======
 * 2023, Brown Bag Ph.D workshop, University of Auckland
 * 2024, 2nd PhD Summer Institute in International Trade & Industrial Organisation, University of Canterbury
 * 2024, Brown Bag Ph.D workshop, University of Auckland
 
-Honor and Scholarships
+Honors and Scholarships
 ======
 * 2023-2027 Ph.D Program, China Scholarship Council (CSC) scholarship
 
